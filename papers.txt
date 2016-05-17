@@ -1,0 +1,41 @@
+A linear support higher-order tensor machine for classification
+A Low-Rank Approximation-Based Transductive Support Tensor Machine for Semisupervised Classification
+A new iterative triclass thresholding technique in image segmentation
+Adaptive image registration via hierarchical Voronoi subdivision
+Adaptive Noise Immune Cluster Ensemble Using Affinity Propagation
+An integrated scheduling algorithm for virtual machine system on asymmetric multi-core processors
+Analysis of real solutions number by four-anchor node localization for sensor networks
+Bayesian forecasting evolutionary algorithm
+Biclique analysis on the reduced-round PRESENT
+Clustering to maximize the ratio of split to diameter
+Comprehensive scheduling algorithm for asymmetric multi-core processors
+Contactless palm vein recognition using a mutual foreground-based local binary pattern
+Contour-based recognition
+Encoding Color Information for Visual Tracking: Algorithms and Benchmark
+Fractal Analysis for Reduced Reference Image Quality Assessment
+Gray image representation algorithm based on overlapping RNAM
+Hierarchical and high-girth QC LDPC codes
+Image segmentation based on the Poincaré map method
+Information-theoretic multi-view domain adaptation
+Integrated scheduling for operating systems on asymmetric multi-core processors
+ℓ0TV: A new method for image restoration in the presence of impulse noise
+Lacunarity analysis on image patterns for texture classification
+Matrix factorization for time series data
+MELODY-JOIN: Efficient Earth Mover's Distance similarity joins using MapReduce
+Multi-view Discriminant Transfer learning
+Optimizing batch linear queries under exact and approximate differential privacy
+Personalized video recommendation through tripartite graph propagation
+Probabilistic common spatial patterns for multichannel EEG analysis
+Protein Function Prediction by Integrating Multiple Kernels
+Provably secure group key management approach based upon hyper-sphere
+Recursive heuristic algorithm for the 2D rectangular strip packing problem
+Resolution strategy of hidden node collision based on collision indication and grouping
+Scheduling periodic independent tasks on single-level tree grid
+Secure and distributed data discovery and dissemination in wireless sensor networks
+Sphere-gap transferring algorithm to realize global optimization
+Temporal Variance Analysis for Action Recognition
+Transductive multi-label ensemble classification for protein function prediction
+Typicality-based collaborative filtering recommendation
+Virtual resource evaluation model based on entropy optimized and dynamic weighted in cloud computing
+Wavelet domain multifractal analysis for static and dynamic texture classification
+Workload analysis and modeling of high performance computing trace of biological gene sequencing
